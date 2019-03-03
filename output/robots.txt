@@ -1,0 +1,4 @@
+Sitemap: https://priyankasaggu119.com/sitemapindex.xml
+
+User-Agent: *
+Host: priyankasaggu119.com
